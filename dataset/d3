@@ -1,0 +1,1 @@
+‪#‎android‬ ‪#‎ubuntu‬ ‪#‎linux‬有些人希望在個人電腦上跑Android apps，一個方法是用virtual machine，另一個方法是container。後者在理論上具有效能上的優勢，不過用container跑Android的實作有其複雜性，我們在過去看到某些個人或是小團隊的試作計畫，雖然能跑，但是有一些穩定性的問題，而且Android一直改版，很難一直追趕。由Ubuntu這樣的組織跳出來做這個，我想是非常合適的，有空可以好好來檢視Ubuntu的實作方法。當桌機筆電逐漸被手機平板取代，Ubuntu應該對於這個他所主打的市場有所警覺，而支持Android Apps的執行可能是個好賣點。

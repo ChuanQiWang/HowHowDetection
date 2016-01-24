@@ -1,0 +1,1 @@
+‪#‎qemu‬ ‪#‎docker‬這是一個可以作為教學範例：如何在x86主機上的Linux container之中執行ARM的binary？為什麼要在x86主機上的Linux container之中執行ARM的binary？有那些好處？除此之外有沒有別的，或是更好的方法？各種方法的優點和缺點為何？（討論與作業）我比較想看到如何在Linux或是Android主機上用container跑Android apps的教學。如果有朋友知道的話，敬請分享... 無論是ARM或x86都可以，但一年前的舊資料就不必了，有些宣稱可以跑的舊資料，只做了一部分，已經不適用了，最好是有釋出原始碼的新資料。
